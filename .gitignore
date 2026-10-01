@@ -1,0 +1,13 @@
+# 原始数据不上传（体积过大，GitHub 单文件上限 100MB）
+00_数据/
+*.csv
+*.xlsx.orig
+
+# 中间产物
+__pycache__/
+*.pyc
+
+# 系统文件与 Office 临时文件
+.DS_Store
+Thumbs.db
+~$*
