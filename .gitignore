@@ -11,3 +11,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 ~$*
+
+# 根目录旧版教程（已归档到 06_教程）
+/手把手教程.docx
+/手把手教程_更新版.docx
